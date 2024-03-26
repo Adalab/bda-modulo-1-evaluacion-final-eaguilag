@@ -8,7 +8,7 @@ Ejercicio de evaluación final del **Módulo 1** del Bootcamp de **Análisis de 
 
 ## Estructura de fichero
 
-El ejercicio de evaluación se encuentra en un Jupyter Notebook dentro del repositorio. El archivo está nombrado como "bda-modulo-1-evaluacion-final-promo-angela-elena-aguila.ipynb" y se estructura de la siguiente forma:
+El ejercicio de evaluación se encuentra en un Jupyter Notebook dentro del repositorio. El archivo está nombrado como [bda-modulo-1-evaluacion-final-promo-angela-elena-aguila.ipynb](https://github.com/Adalab/bda-modulo-1-evaluacion-final-eaguilag/blob/main/bda-modulo-1-evaluacion-final-promo-angela-elena-aguila.ipynb) y se estructura de la siguiente forma:
 
 1. Enunciado del ejercicio de evaluación provisto por Adalab (markdown).
 
@@ -24,16 +24,16 @@ El ejercicio de evaluación se encuentra en un Jupyter Notebook dentro del repos
         
         # Metodos del 1 al 14
         def nombre_metodo(self, parametros):
-            # Planteamiento de métodos usando diferentes tipos de datos, condicionales, bucles, etc.
+            # Planteamiento de metodos usando diferentes tipos de datos, condicionales, bucles, etc.
     ```
 
-3. Instancia de la clase `TiendaOnline` donde se comprueba que cada uno de los métodos funciona correctamente (markdown + Python). A su vez, esta tercera sección donde se prueba el funcionamiento del código está fragmentada en 15 partes diferentes según los métodos que se piden, así se pueden ejecutar de manera independiente y revisar los outputs cuando se llama a un método en concreto. Por ejemplo:
+3. Instancia de la clase `TiendaOnline` donde se comprueba que cada uno de los métodos funciona correctamente (markdown + Python). A su vez, esta tercera sección donde se prueba el funcionamiento del código está fragmentada en 15 partes diferentes según los métodos que se piden, así se pueden ejecutar de manera independiente y revisar los outputs cuando se llama a un método en concreto. Este es un ejemplo del método 3 `buscar_producto()`:
 
 ![Captura metodo 3](https://github.com/eaguilag/testing-git/blob/main/assets/evaluacion-modulo1-metodo3.JPG)
 
 ## Particularidades
 
-Algunos metodos como el 8 y el 9 requieren introducir datos a través de inputs. Las instrucciones sobre qué introducir se irán mostrando cuando se ejecute el código.
+Algunos métodos como el 8 y el 9 requieren introducir datos a través de inputs. Las instrucciones sobre qué introducir se irán mostrando cuando se ejecute el código.
 
 ![Captura metodo 8](https://github.com/eaguilag/testing-git/blob/main/assets/evaluacion-modulo1-metodo8.gif)
 
