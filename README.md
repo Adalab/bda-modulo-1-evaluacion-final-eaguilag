@@ -1,3 +1,4 @@
+![Cabecera. Evaluacion Final Modulo 1. Elena Águila Garcia](https://github.com/eaguilag/testing-git/blob/main/assets/elena-aguila-cabecera.png)
 # Evaluación Final Módulo 1
 *Elena Águila García*
 
@@ -28,7 +29,12 @@ El ejercicio de evaluación se encuentra en un Jupyter Notebook dentro del repos
 
 3. Instancia de la clase TiendaOnline donde se comprueba que cada uno de los métodos funciona correctamente (markdown + Python). A su vez, esta tercera sección donde se prueba el funcionamiento del código está fragmentada en 15 partes diferentes según los métodos que se piden, así se pueden ejecutar de manera independiente y revisar los outputs cuando se llama a un método en concreto.
 
+![Captura metodo 13](https://github.com/eaguilag/testing-git/blob/main/assets/evaluacion-modulo1-metodo3.JPG)
 
+## Particularidades
+
+Algunos metodos como el 8 y el 9 requieren introducir datos a través de inputs. Las instrucciones sobre qué introducir se irán mostrando cuando se ejecute el código.
+![Captura metodo 8](https://github.com/eaguilag/testing-git/blob/main/assets/evaluacion-modulo1-metodo8.gif)
 
 ## Código comentado
 
@@ -36,4 +42,4 @@ El código va acompañado de comentarios para mejorar el entendimiento del proce
 
 ## Gracias :purple_heart:
 
-Muchas gracias por el tiempo y dedicación en la corrección de esta evaluación a la instructora asignada Almu Hernández @almuher
+Muchas gracias por el tiempo y dedicación en la corrección de esta evaluación a la instructora asignada Almu Hernández [@almuher](https://github.com/almuher)
